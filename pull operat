@@ -1,0 +1,5 @@
+the operations which are required for pull operation from github to git is given by:
+git init for initilisation
+clear which is used to clear the tab
+git add remote add origin "https://github.com/venkisv12345/ram-12.git"
+git pull origin master
