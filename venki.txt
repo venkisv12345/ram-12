@@ -1,1 +1,21 @@
 i have doing push and pull repository i git..
+we can push and pull operations 
+ls list_files
+cd change_directory
+cd /c
+cd git
+ls
+push operations commands
+1 git config --global user.name "venkisv12345"
+2 git config --global user.email "nikhilsvvenki@gmail.com"
+3 git clone "https://github.com/venkisv12345/ram-12.git"
+4 ls
+5 cd ram-12/
+6 ls
+7 create a file in your the git floder
+8 git add venki.txt
+9 git status
+10 git commit -m "third commit" venki.txt
+11 final command for pushing the value is
+     git push -u origin master
+
